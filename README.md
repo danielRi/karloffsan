@@ -1,6 +1,6 @@
 ## karloffsan
 
-*version 0.1_alpha*
+*version 0.1.2_alpha*
 
 Entwicklungsumgebung benötigt:
 
@@ -16,5 +16,5 @@ Entwicklungsumgebung benötigt:
   https://github.com/nvie/gitflow/wiki/Windows#git-for-windows-previously-msysgit)
 
 builld project (minimal working example)
-* cd <project_root>/
+* cd project_root/
 * tsc client/ts/src/main -outFile client/build/main.js

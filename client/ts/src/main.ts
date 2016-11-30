@@ -1,6 +1,3 @@
-/// <reference path=”../lib/phaser.d.ts” />
-
-
 class SimpleGame {
 
     game: Phaser.Game;

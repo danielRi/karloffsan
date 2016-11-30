@@ -1,6 +1,6 @@
 ## karloffsan
 
-*version 0.1.2_alpha*
+*version 0.1.3_alpha*
 
 Entwicklungsumgebung benötigt:
 
